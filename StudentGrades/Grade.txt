@@ -1,0 +1,5 @@
+King, James     001  History 		A
+Oliver, Richard 002  Mathematics 	A
+Robertson, Alex 003  Psychology 	B
+Smith, John     004  Philosophy		A
+Porter, Chris   005  Law 		B
